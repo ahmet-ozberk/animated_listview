@@ -34,7 +34,7 @@ class _AnimatedListViewState extends State<AnimatedListView> {
       borderRadius: BorderRadius.circular(10),
       child: Container(
         width: double.maxFinite,
-        height: 100,
+        height: 150,
         color: context.randomColor,
       ),
     );
